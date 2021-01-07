@@ -1,0 +1,17 @@
+body {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.create {
+    display: flex;
+}
+
+li span {
+    color: red;
+    cursor: pointer;
+}
